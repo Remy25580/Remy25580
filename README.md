@@ -68,7 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Remy25580/Remy25580/output/snake.svg" alt="Snake animation" />
+<img src="snake.svg" alt="Snake animation" />
 
 ###
 
