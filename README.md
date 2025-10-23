@@ -68,11 +68,7 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Remy25580/Remy25580/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Remy25580/Remy25580/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Remy25580/Remy25580/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Remy25580/Remy25580/output/snake.svg" alt="Snake animation" />
 
 ###
 
